@@ -112,6 +112,7 @@ const compliments = [
     "Tu me fais perdre mes moyens",
     "J'aime quand tu me demandes si je veux que tu te brosses les dents après avoir mangé un repas non vegan",
     "J'aime quand tu as tes délires (quoicoubeh, no faké, j'en passe et des meilleurs",
+    "J'aime quant tu tournes la tête pour tousser"
 ];
 
 function afficherCompliment() {
